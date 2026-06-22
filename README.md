@@ -45,7 +45,27 @@ This dashboard combines useful daily tools like a calculator, digital clock, and
 
 ![Dashboard Screenshot](images/screenshot123.png)
 
+---
+
+## Live Demo
+
+live link : https://abhijith-e0.github.io/Productive-Dashboard/
+
 ## Project Structure 
 
-```bash
+## Project Structure 📂
+
+```text
+Productivity-Dashboard/
+│
+├── images/
+│     └── screenshot12.png
+│     └── screenshot12.png
+├── index.html
+├── style.cs
+├── script.js
+└── README.md
+```
+
+
 
